@@ -26,6 +26,7 @@ StockSight is a comprehensive Stock management system developed in Java, utilizi
 * **Java** (Programming language)
 * **Java Swing and Java AWT** (GUI)
 * **SQL** (Database for data storage)
+* **xampp** (open-source cross-platform for web server)
 
 ## Getting Started
 
