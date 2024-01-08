@@ -1,8 +1,6 @@
- **# StockSight **
+# StockSight
 
-## Overview
-
-StockSight is a comprehensive inventory management system developed in Java, utilizing JavaSwing for the graphical user interface and SQL for database integration. This system enables efficient tracking and management of stocks across various business operations.
+StockSight is a comprehensive Stock management system developed in Java, utilizing JavaSwing for the graphical user interface and SQL for database integration. This system enables efficient tracking and management of stocks across various business operations.
 
 ## Features
 
