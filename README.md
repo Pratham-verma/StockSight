@@ -57,6 +57,6 @@ StockSight is a comprehensive Stock management system developed in Java, utilizi
 
 ## Contact
 
-[StockSight]
+[Prathamverma]
 [vermapratham623@gmail.com]
 
